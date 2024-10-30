@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shauun-Cheeng
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python, sql and PowerBI
-- 💞️ I’m looking to collaborate on smart city data program
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning python, sql and PowerBI.
+- 💞️ I’m looking to collaborate on smart city data program.
 - 📫 How to reach me 
 - ⚡ Fun fact: 
 
